@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "619b916233021fadc6e176b5"
+  },
+  "category_id": 1,
+  "category_name": "Arts & Culture"
+},{
+  "_id": {
+    "$oid": "619b916233021fadc6e176b6"
+  },
+  "category_id": 2,
+  "category_name": "Sports"
+},{
+  "_id": {
+    "$oid": "619b916233021fadc6e176b7"
+  },
+  "category_id": 3,
+  "category_name": "Religion"
+},{
+  "_id": {
+    "$oid": "619b916233021fadc6e176b8"
+  },
+  "category_id": 4,
+  "category_name": "Interest Clubs"
+}]

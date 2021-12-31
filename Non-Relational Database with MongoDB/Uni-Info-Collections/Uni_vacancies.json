@@ -1,0 +1,463 @@
+[{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17612"
+  },
+  "course_id": 1,
+  "vacancies": "223.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17613"
+  },
+  "course_id": 2,
+  "vacancies": "280.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17614"
+  },
+  "course_id": 3,
+  "vacancies": "311.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17615"
+  },
+  "course_id": 4,
+  "vacancies": "160.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17616"
+  },
+  "course_id": 5,
+  "vacancies": "48.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17617"
+  },
+  "course_id": 6,
+  "vacancies": "167.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17618"
+  },
+  "course_id": 7,
+  "vacancies": "165.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17619"
+  },
+  "course_id": 8,
+  "vacancies": "161.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1761a"
+  },
+  "course_id": 9,
+  "vacancies": "253.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1761b"
+  },
+  "course_id": 10,
+  "vacancies": "133.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1761c"
+  },
+  "course_id": 11,
+  "vacancies": "207.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1761d"
+  },
+  "course_id": 12,
+  "vacancies": "35.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1761e"
+  },
+  "course_id": 13,
+  "vacancies": "47.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1761f"
+  },
+  "course_id": 14,
+  "vacancies": "79.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17620"
+  },
+  "course_id": 15,
+  "vacancies": "346.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17621"
+  },
+  "course_id": 16,
+  "vacancies": "241.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17622"
+  },
+  "course_id": 17,
+  "vacancies": "596.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17623"
+  },
+  "course_id": 18,
+  "vacancies": "53.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17624"
+  },
+  "course_id": 19,
+  "vacancies": "124.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17625"
+  },
+  "course_id": 20,
+  "vacancies": "181.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17626"
+  },
+  "course_id": 21,
+  "vacancies": "571.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17627"
+  },
+  "course_id": 22,
+  "vacancies": "571.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17628"
+  },
+  "course_id": 23,
+  "vacancies": "765.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17629"
+  },
+  "course_id": 24,
+  "vacancies": "220.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1762a"
+  },
+  "course_id": 25,
+  "vacancies": "1510.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1762b"
+  },
+  "course_id": 26,
+  "vacancies": "124.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1762c"
+  },
+  "course_id": 27,
+  "vacancies": "102.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1762d"
+  },
+  "course_id": 28,
+  "vacancies": "174.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1762e"
+  },
+  "course_id": 29,
+  "vacancies": "120.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1762f"
+  },
+  "course_id": 30,
+  "vacancies": "99.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17630"
+  },
+  "course_id": 31,
+  "vacancies": "424.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17631"
+  },
+  "course_id": 32,
+  "vacancies": "608.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17632"
+  },
+  "course_id": 33,
+  "vacancies": "35.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17633"
+  },
+  "course_id": 34,
+  "vacancies": "97.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17634"
+  },
+  "course_id": 35,
+  "vacancies": "86.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17635"
+  },
+  "course_id": 36,
+  "vacancies": "211.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17636"
+  },
+  "course_id": 37,
+  "vacancies": "540.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17637"
+  },
+  "course_id": 38,
+  "vacancies": "63.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17638"
+  },
+  "course_id": 39,
+  "vacancies": "263.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17639"
+  },
+  "course_id": 40,
+  "vacancies": "231.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1763a"
+  },
+  "course_id": 41,
+  "vacancies": "80.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1763b"
+  },
+  "course_id": 42,
+  "vacancies": "507.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1763c"
+  },
+  "course_id": 43,
+  "vacancies": "837.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1763d"
+  },
+  "course_id": 44,
+  "vacancies": "145.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1763e"
+  },
+  "course_id": 45,
+  "vacancies": "73.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1763f"
+  },
+  "course_id": 46,
+  "vacancies": "168.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17640"
+  },
+  "course_id": 47,
+  "vacancies": "163.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17641"
+  },
+  "course_id": 48,
+  "vacancies": "90.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17642"
+  },
+  "course_id": 49,
+  "vacancies": "82.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17643"
+  },
+  "course_id": 50,
+  "vacancies": "59.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17644"
+  },
+  "course_id": 51,
+  "vacancies": "134.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17645"
+  },
+  "course_id": 52,
+  "vacancies": "65.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17646"
+  },
+  "course_id": 53,
+  "vacancies": "139.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17647"
+  },
+  "course_id": 54,
+  "vacancies": "74.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17648"
+  },
+  "course_id": 55,
+  "vacancies": "349.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17649"
+  },
+  "course_id": 56,
+  "vacancies": "840.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1764a"
+  },
+  "course_id": 57,
+  "vacancies": "264.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1764b"
+  },
+  "course_id": 58,
+  "vacancies": "448.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1764c"
+  },
+  "course_id": 59,
+  "vacancies": "49.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1764d"
+  },
+  "course_id": 60,
+  "vacancies": "244.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1764e"
+  },
+  "course_id": 61,
+  "vacancies": "60.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1764f"
+  },
+  "course_id": 62,
+  "vacancies": "56.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17650"
+  },
+  "course_id": 63,
+  "vacancies": "65.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17651"
+  },
+  "course_id": 64,
+  "vacancies": "48.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17652"
+  },
+  "course_id": 65,
+  "vacancies": "156.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17653"
+  },
+  "course_id": 66,
+  "vacancies": "47.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17654"
+  },
+  "course_id": 67,
+  "vacancies": "149.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17655"
+  },
+  "course_id": 68,
+  "vacancies": "55.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17656"
+  },
+  "course_id": 69,
+  "vacancies": "52.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17657"
+  },
+  "course_id": 70,
+  "vacancies": "33.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17658"
+  },
+  "course_id": 71,
+  "vacancies": "34.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e17659"
+  },
+  "course_id": 72,
+  "vacancies": "152.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1765a"
+  },
+  "course_id": 73,
+  "vacancies": "57.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1765b"
+  },
+  "course_id": 74,
+  "vacancies": "49.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1765c"
+  },
+  "course_id": 75,
+  "vacancies": "28.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1765d"
+  },
+  "course_id": 76,
+  "vacancies": "29.0"
+},{
+  "_id": {
+    "$oid": "619b913f33021fadc6e1765e"
+  },
+  "course_id": 77,
+  "vacancies": "174.0"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "619b913533021fadc6e1760d"
+  },
+  "lid": 1,
+  "uid": 1,
+  "location": "Southwest"
+},{
+  "_id": {
+    "$oid": "619b913533021fadc6e1760e"
+  },
+  "lid": 2,
+  "uid": 2,
+  "location": "West"
+},{
+  "_id": {
+    "$oid": "619b913533021fadc6e1760f"
+  },
+  "lid": 3,
+  "uid": 3,
+  "location": "Central"
+}]

@@ -1,0 +1,694 @@
+[{
+  "_id": {
+    "$oid": "619b915833021fadc6e17666"
+  },
+  "course_id": 1,
+  "uid": 1,
+  "course_name": "Law",
+  "gpa10pct": "3.86",
+  "gpa90pct": "3.93"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17667"
+  },
+  "course_id": 2,
+  "uid": 1,
+  "course_name": "Medicine",
+  "gpa10pct": "3.94",
+  "gpa90pct": "4"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17668"
+  },
+  "course_id": 3,
+  "uid": 1,
+  "course_name": "Nursing",
+  "gpa10pct": "3.33",
+  "gpa90pct": "3.86"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17669"
+  },
+  "course_id": 4,
+  "uid": 1,
+  "course_name": "Architecture",
+  "gpa10pct": "3.59",
+  "gpa90pct": "3.92"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1766a"
+  },
+  "course_id": 5,
+  "uid": 1,
+  "course_name": "Industrial Design",
+  "gpa10pct": "3.88",
+  "gpa90pct": "3.97"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1766b"
+  },
+  "course_id": 6,
+  "uid": 1,
+  "course_name": "Project & Facilities Management",
+  "gpa10pct": "3.59",
+  "gpa90pct": "3.84"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1766c"
+  },
+  "course_id": 7,
+  "uid": 1,
+  "course_name": "Real Estate",
+  "gpa10pct": "3.58",
+  "gpa90pct": "3.83"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1766d"
+  },
+  "course_id": 8,
+  "uid": 1,
+  "course_name": "Biomedical Engineering",
+  "gpa10pct": "3.71",
+  "gpa90pct": "3.92"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1766e"
+  },
+  "course_id": 9,
+  "uid": 1,
+  "course_name": "Chemical Engineering",
+  "gpa10pct": "3.65",
+  "gpa90pct": "3.95"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1766f"
+  },
+  "course_id": 10,
+  "uid": 1,
+  "course_name": "Civil Engineering",
+  "gpa10pct": "3.71",
+  "gpa90pct": "3.95"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17670"
+  },
+  "course_id": 11,
+  "uid": 1,
+  "course_name": "Electrical Engineering",
+  "gpa10pct": "3.68",
+  "gpa90pct": "3.94"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17671"
+  },
+  "course_id": 12,
+  "uid": 1,
+  "course_name": "Engineering Science",
+  "gpa10pct": "3.83",
+  "gpa90pct": "3.99"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17672"
+  },
+  "course_id": 13,
+  "uid": 1,
+  "course_name": "Environmental Engineering",
+  "gpa10pct": "3.57",
+  "gpa90pct": "3.94"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17673"
+  },
+  "course_id": 14,
+  "uid": 1,
+  "course_name": "Materials Science & Engineering",
+  "gpa10pct": "3.76",
+  "gpa90pct": "3.93"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17674"
+  },
+  "course_id": 15,
+  "uid": 1,
+  "course_name": "Mechanical Engineering",
+  "gpa10pct": "3.65",
+  "gpa90pct": "3.94"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17675"
+  },
+  "course_id": 16,
+  "uid": 1,
+  "course_name": "Computing(Business Analytics)",
+  "gpa10pct": "3.81",
+  "gpa90pct": "3.95"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17676"
+  },
+  "course_id": 17,
+  "uid": 1,
+  "course_name": "Computing(Computer Science)",
+  "gpa10pct": "3.86",
+  "gpa90pct": "3.98"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17677"
+  },
+  "course_id": 18,
+  "uid": 1,
+  "course_name": "Computing(Information Security)",
+  "gpa10pct": "3.84",
+  "gpa90pct": "3.97"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17678"
+  },
+  "course_id": 19,
+  "uid": 1,
+  "course_name": "Computing(Informations Systems)",
+  "gpa10pct": "3.82",
+  "gpa90pct": "3.99"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17679"
+  },
+  "course_id": 20,
+  "uid": 1,
+  "course_name": "Computer Engineering",
+  "gpa10pct": "3.87",
+  "gpa90pct": "3.97"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1767a"
+  },
+  "course_id": 21,
+  "uid": 1,
+  "course_name": "Science(Chemistry)",
+  "gpa10pct": "3.85",
+  "gpa90pct": "3.96"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1767b"
+  },
+  "course_id": 22,
+  "uid": 1,
+  "course_name": "Science(Life Sciences)",
+  "gpa10pct": "3.83",
+  "gpa90pct": "3.97"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1767c"
+  },
+  "course_id": 23,
+  "uid": 1,
+  "course_name": "Business Admin",
+  "gpa10pct": "3.73",
+  "gpa90pct": "3.95"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1767d"
+  },
+  "course_id": 24,
+  "uid": 1,
+  "course_name": "Businesss Admin(Accountancy)",
+  "gpa10pct": "3.76",
+  "gpa90pct": "3.97"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1767e"
+  },
+  "course_id": 25,
+  "uid": 1,
+  "course_name": "Arts & Social Sciences",
+  "gpa10pct": "3.67",
+  "gpa90pct": "3.92"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1767f"
+  },
+  "course_id": 26,
+  "uid": 2,
+  "course_name": "Aerospace Engineering",
+  "gpa10pct": "3.49",
+  "gpa90pct": "3.93"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17680"
+  },
+  "course_id": 27,
+  "uid": 2,
+  "course_name": "Bioengineering",
+  "gpa10pct": "3.69",
+  "gpa90pct": "3.96"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17681"
+  },
+  "course_id": 28,
+  "uid": 2,
+  "course_name": "Chemical & Biomolecular Engineering",
+  "gpa10pct": "3.67",
+  "gpa90pct": "3.98"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17682"
+  },
+  "course_id": 29,
+  "uid": 2,
+  "course_name": "Civil Engineering",
+  "gpa10pct": "3.44",
+  "gpa90pct": "3.97"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17683"
+  },
+  "course_id": 30,
+  "uid": 2,
+  "course_name": "Computer Engineering",
+  "gpa10pct": "3.58",
+  "gpa90pct": "3.95"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17684"
+  },
+  "course_id": 31,
+  "uid": 2,
+  "course_name": "Computer Science",
+  "gpa10pct": "3.56",
+  "gpa90pct": "3.95"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17685"
+  },
+  "course_id": 32,
+  "uid": 2,
+  "course_name": "Electrical & Electronic Engineering",
+  "gpa10pct": "3.43",
+  "gpa90pct": "3.94"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17686"
+  },
+  "course_id": 33,
+  "uid": 2,
+  "course_name": "Environmental Engineering",
+  "gpa10pct": "3.46",
+  "gpa90pct": "3.81"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17687"
+  },
+  "course_id": 34,
+  "uid": 2,
+  "course_name": "Information Engineering & Media",
+  "gpa10pct": "3.49",
+  "gpa90pct": "3.98"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17688"
+  },
+  "course_id": 35,
+  "uid": 2,
+  "course_name": "Maritime Studies",
+  "gpa10pct": "3.54",
+  "gpa90pct": "3.92"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17689"
+  },
+  "course_id": 36,
+  "uid": 2,
+  "course_name": "Materials Engineering",
+  "gpa10pct": "3.38",
+  "gpa90pct": "3.88"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1768a"
+  },
+  "course_id": 37,
+  "uid": 2,
+  "course_name": "Mechanical Engineering",
+  "gpa10pct": "3.4",
+  "gpa90pct": "3.91"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1768b"
+  },
+  "course_id": 38,
+  "uid": 2,
+  "course_name": "Double Major Programmes for Science",
+  "gpa10pct": "3.84",
+  "gpa90pct": "3.99"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1768c"
+  },
+  "course_id": 39,
+  "uid": 2,
+  "course_name": "Biological Sciences",
+  "gpa10pct": "3.71",
+  "gpa90pct": "3.96"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1768d"
+  },
+  "course_id": 40,
+  "uid": 2,
+  "course_name": "Chemistry & Biological Chemistry",
+  "gpa10pct": "3.49",
+  "gpa90pct": "3.88"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1768e"
+  },
+  "course_id": 41,
+  "uid": 2,
+  "course_name": "Physics/Applied Physics",
+  "gpa10pct": "3.52",
+  "gpa90pct": "3.97"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1768f"
+  },
+  "course_id": 42,
+  "uid": 2,
+  "course_name": "Accountancy",
+  "gpa10pct": "3.62",
+  "gpa90pct": "3.95"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17690"
+  },
+  "course_id": 43,
+  "uid": 2,
+  "course_name": "Business",
+  "gpa10pct": "3.62",
+  "gpa90pct": "3.94"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17691"
+  },
+  "course_id": 44,
+  "uid": 2,
+  "course_name": "Art, Design & Media",
+  "gpa10pct": "3.3",
+  "gpa90pct": "3.83"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17692"
+  },
+  "course_id": 45,
+  "uid": 2,
+  "course_name": "Chinese",
+  "gpa10pct": "3.41",
+  "gpa90pct": "3.81"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17693"
+  },
+  "course_id": 46,
+  "uid": 2,
+  "course_name": "Communication Studies",
+  "gpa10pct": "3.68",
+  "gpa90pct": "3.93"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17694"
+  },
+  "course_id": 47,
+  "uid": 2,
+  "course_name": "Economics",
+  "gpa10pct": "3.51",
+  "gpa90pct": "3.84"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17695"
+  },
+  "course_id": 48,
+  "uid": 2,
+  "course_name": "English",
+  "gpa10pct": "3.39",
+  "gpa90pct": "3.71"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17696"
+  },
+  "course_id": 49,
+  "uid": 2,
+  "course_name": "Linguistics & Multilingual Studies",
+  "gpa10pct": "3.38",
+  "gpa90pct": "3.73"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17697"
+  },
+  "course_id": 50,
+  "uid": 2,
+  "course_name": "Philosophy",
+  "gpa10pct": "3.31",
+  "gpa90pct": "3.6"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17698"
+  },
+  "course_id": 51,
+  "uid": 2,
+  "course_name": "Psychology",
+  "gpa10pct": "3.67",
+  "gpa90pct": "3.92"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e17699"
+  },
+  "course_id": 52,
+  "uid": 2,
+  "course_name": "Public Policy & Global Affairs",
+  "gpa10pct": "3.56",
+  "gpa90pct": "3.95"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1769a"
+  },
+  "course_id": 53,
+  "uid": 2,
+  "course_name": "Sociology",
+  "gpa10pct": "3.47",
+  "gpa90pct": "3.77"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1769b"
+  },
+  "course_id": 54,
+  "uid": 2,
+  "course_name": "Sports Science & Management",
+  "gpa10pct": "3.54",
+  "gpa90pct": "3.93"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1769c"
+  },
+  "course_id": 55,
+  "uid": 3,
+  "course_name": "Bachelor of Accountancy",
+  "gpa10pct": "3.68",
+  "gpa90pct": "3.95"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1769d"
+  },
+  "course_id": 56,
+  "uid": 3,
+  "course_name": "Bachelor of Business Management",
+  "gpa10pct": "3.68",
+  "gpa90pct": "3.94"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1769e"
+  },
+  "course_id": 57,
+  "uid": 3,
+  "course_name": "Bachelor of Science (Economics)",
+  "gpa10pct": "3.69",
+  "gpa90pct": "3.92"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e1769f"
+  },
+  "course_id": 58,
+  "uid": 3,
+  "course_name": "Bachelor of Science (Information Systems)",
+  "gpa10pct": "3.57",
+  "gpa90pct": "3.92"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176a0"
+  },
+  "course_id": 59,
+  "uid": 3,
+  "course_name": "Bachelor of Science (Computer Science)",
+  "gpa10pct": "3.75",
+  "gpa90pct": "3.96"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176a1"
+  },
+  "course_id": 60,
+  "uid": 3,
+  "course_name": "Bachelor of Social Science",
+  "gpa10pct": "3.66",
+  "gpa90pct": "3.91"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176a2"
+  },
+  "course_id": 61,
+  "uid": 1,
+  "course_name": "Dentistry",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176a3"
+  },
+  "course_id": 62,
+  "uid": 1,
+  "course_name": "Engineering",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176a4"
+  },
+  "course_id": 63,
+  "uid": 1,
+  "course_name": "Industrial & Systems Engineering",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176a5"
+  },
+  "course_id": 64,
+  "uid": 1,
+  "course_name": "Pharmaceutical Science",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176a6"
+  },
+  "course_id": 65,
+  "uid": 1,
+  "course_name": "Pharmacy",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176a7"
+  },
+  "course_id": 66,
+  "uid": 1,
+  "course_name": "Environmental Studies",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176a8"
+  },
+  "course_id": 67,
+  "uid": 2,
+  "course_name": "Medicine",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176a9"
+  },
+  "course_id": 68,
+  "uid": 2,
+  "course_name": "Renaissance Engineering",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176aa"
+  },
+  "course_id": 69,
+  "uid": 2,
+  "course_name": "Data Science & Artificial Intelligence",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176ab"
+  },
+  "course_id": 70,
+  "uid": 2,
+  "course_name": "Engineering",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176ac"
+  },
+  "course_id": 71,
+  "uid": 2,
+  "course_name": "Environmental Earth Systems Science",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176ad"
+  },
+  "course_id": 72,
+  "uid": 2,
+  "course_name": "Mathematical Sciences",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176ae"
+  },
+  "course_id": 73,
+  "uid": 2,
+  "course_name": "Double Major Programmes for Humanities, Arts & Social Sciences",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176af"
+  },
+  "course_id": 74,
+  "uid": 2,
+  "course_name": "History",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176b0"
+  },
+  "course_id": 75,
+  "uid": 2,
+  "course_name": "Arts (Education(NIE))",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176b1"
+  },
+  "course_id": 76,
+  "uid": 2,
+  "course_name": "Science (Education (NIE))",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+},{
+  "_id": {
+    "$oid": "619b915833021fadc6e176b2"
+  },
+  "course_id": 77,
+  "uid": 3,
+  "course_name": "Bachelor of Laws",
+  "gpa10pct": "NUL",
+  "gpa90pct": "NUL"
+}]

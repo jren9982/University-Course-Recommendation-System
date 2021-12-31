@@ -1,0 +1,833 @@
+[{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175a0"
+  },
+  "cca_id": 1,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "Chinese Drama"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175a1"
+  },
+  "cca_id": 2,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "Chinese Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175a2"
+  },
+  "cca_id": 3,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "Chinese Orchestra"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175a3"
+  },
+  "cca_id": 4,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "Guitar Orchestra"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175a4"
+  },
+  "cca_id": 5,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "Harmonica Orchestra"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175a5"
+  },
+  "cca_id": 6,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "Symphony Orchestra"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175a6"
+  },
+  "cca_id": 7,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "English Drama"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175a7"
+  },
+  "cca_id": 8,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "Choir Ensemble"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175a8"
+  },
+  "cca_id": 9,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "DJ Collective"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175a9"
+  },
+  "cca_id": 10,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "Dance Ensemble"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175aa"
+  },
+  "cca_id": 11,
+  "category_id": 1,
+  "uid": 1,
+  "cca_name": "Indian Dance"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ab"
+  },
+  "cca_id": 12,
+  "category_id": 2,
+  "uid": 1,
+  "cca_name": "Archery"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ac"
+  },
+  "cca_id": 13,
+  "category_id": 2,
+  "uid": 1,
+  "cca_name": "Badminton"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ad"
+  },
+  "cca_id": 14,
+  "category_id": 2,
+  "uid": 1,
+  "cca_name": "Basketball"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ae"
+  },
+  "cca_id": 15,
+  "category_id": 2,
+  "uid": 1,
+  "cca_name": "Bowling"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175af"
+  },
+  "cca_id": 16,
+  "category_id": 2,
+  "uid": 1,
+  "cca_name": "Cross-Country"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175b0"
+  },
+  "cca_id": 17,
+  "category_id": 2,
+  "uid": 1,
+  "cca_name": "Dragonboat"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175b1"
+  },
+  "cca_id": 18,
+  "category_id": 2,
+  "uid": 1,
+  "cca_name": "Sailing"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175b2"
+  },
+  "cca_id": 19,
+  "category_id": 2,
+  "uid": 1,
+  "cca_name": "Shooting"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175b3"
+  },
+  "cca_id": 20,
+  "category_id": 2,
+  "uid": 1,
+  "cca_name": "Swimming"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175b4"
+  },
+  "cca_id": 21,
+  "category_id": 2,
+  "uid": 1,
+  "cca_name": "Volleyball"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175b5"
+  },
+  "cca_id": 22,
+  "category_id": 3,
+  "uid": 1,
+  "cca_name": "Buddhist Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175b6"
+  },
+  "cca_id": 23,
+  "category_id": 3,
+  "uid": 1,
+  "cca_name": "Catholic Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175b7"
+  },
+  "cca_id": 24,
+  "category_id": 3,
+  "uid": 1,
+  "cca_name": "Christian Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175b8"
+  },
+  "cca_id": 25,
+  "category_id": 3,
+  "uid": 1,
+  "cca_name": "Hindu Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175b9"
+  },
+  "cca_id": 26,
+  "category_id": 3,
+  "uid": 1,
+  "cca_name": "Muslim Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ba"
+  },
+  "cca_id": 27,
+  "category_id": 3,
+  "uid": 1,
+  "cca_name": "Sikh Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175bb"
+  },
+  "cca_id": 28,
+  "category_id": 4,
+  "uid": 1,
+  "cca_name": "Drone Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175bc"
+  },
+  "cca_id": 29,
+  "category_id": 4,
+  "uid": 1,
+  "cca_name": "Game Development"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175bd"
+  },
+  "cca_id": 30,
+  "category_id": 4,
+  "uid": 1,
+  "cca_name": "Greyhats Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175be"
+  },
+  "cca_id": 31,
+  "category_id": 4,
+  "uid": 1,
+  "cca_name": "Hackers Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175bf"
+  },
+  "cca_id": 32,
+  "category_id": 4,
+  "uid": 1,
+  "cca_name": "Space Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175c0"
+  },
+  "cca_id": 33,
+  "category_id": 4,
+  "uid": 1,
+  "cca_name": "Climate Change Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175c1"
+  },
+  "cca_id": 34,
+  "category_id": 4,
+  "uid": 1,
+  "cca_name": "Lionhearter Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175c2"
+  },
+  "cca_id": 35,
+  "category_id": 4,
+  "uid": 1,
+  "cca_name": "Red Cross Youth"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175c3"
+  },
+  "cca_id": 36,
+  "category_id": 4,
+  "uid": 1,
+  "cca_name": "Rotaract Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175c4"
+  },
+  "cca_id": 37,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Chinese Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175c5"
+  },
+  "cca_id": 38,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "French Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175c6"
+  },
+  "cca_id": 39,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "German Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175c7"
+  },
+  "cca_id": 40,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Japanese Appreciation Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175c8"
+  },
+  "cca_id": 41,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Drama Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175c9"
+  },
+  "cca_id": 42,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Visual Arts Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ca"
+  },
+  "cca_id": 43,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Chinese Dance"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175cb"
+  },
+  "cca_id": 44,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Chinese Drum"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175cc"
+  },
+  "cca_id": 45,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Chinese Orchestra"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175cd"
+  },
+  "cca_id": 46,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Dancesport"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ce"
+  },
+  "cca_id": 47,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Lion Dance"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175cf"
+  },
+  "cca_id": 48,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Symphony Orchestra"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175d0"
+  },
+  "cca_id": 49,
+  "category_id": 1,
+  "uid": 2,
+  "cca_name": "Wushu"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175d1"
+  },
+  "cca_id": 50,
+  "category_id": 2,
+  "uid": 2,
+  "cca_name": "Bowling"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175d2"
+  },
+  "cca_id": 51,
+  "category_id": 2,
+  "uid": 2,
+  "cca_name": "Archery"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175d3"
+  },
+  "cca_id": 52,
+  "category_id": 2,
+  "uid": 2,
+  "cca_name": "Chess"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175d4"
+  },
+  "cca_id": 53,
+  "category_id": 2,
+  "uid": 2,
+  "cca_name": "Fencing"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175d5"
+  },
+  "cca_id": 54,
+  "category_id": 2,
+  "uid": 2,
+  "cca_name": "Floorball"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175d6"
+  },
+  "cca_id": 55,
+  "category_id": 2,
+  "uid": 2,
+  "cca_name": "Golf"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175d7"
+  },
+  "cca_id": 56,
+  "category_id": 2,
+  "uid": 2,
+  "cca_name": "Inline Skating"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175d8"
+  },
+  "cca_id": 57,
+  "category_id": 2,
+  "uid": 2,
+  "cca_name": "Judo"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175d9"
+  },
+  "cca_id": 58,
+  "category_id": 2,
+  "uid": 2,
+  "cca_name": "Tennis"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175da"
+  },
+  "cca_id": 59,
+  "category_id": 2,
+  "uid": 2,
+  "cca_name": "Yachting"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175db"
+  },
+  "cca_id": 60,
+  "category_id": 3,
+  "uid": 2,
+  "cca_name": "Buddhist Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175dc"
+  },
+  "cca_id": 61,
+  "category_id": 3,
+  "uid": 2,
+  "cca_name": "Christian Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175dd"
+  },
+  "cca_id": 62,
+  "category_id": 3,
+  "uid": 2,
+  "cca_name": "Muslim Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175de"
+  },
+  "cca_id": 63,
+  "category_id": 4,
+  "uid": 2,
+  "cca_name": "Animal Lovers' Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175df"
+  },
+  "cca_id": 64,
+  "category_id": 4,
+  "uid": 2,
+  "cca_name": "Aerospace Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175e0"
+  },
+  "cca_id": 65,
+  "category_id": 4,
+  "uid": 2,
+  "cca_name": "Anglers Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175e1"
+  },
+  "cca_id": 66,
+  "category_id": 4,
+  "uid": 2,
+  "cca_name": "Astronomical Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175e2"
+  },
+  "cca_id": 67,
+  "category_id": 4,
+  "uid": 2,
+  "cca_name": "Board Games Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175e3"
+  },
+  "cca_id": 68,
+  "category_id": 4,
+  "uid": 2,
+  "cca_name": "Cats Management Network"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175e4"
+  },
+  "cca_id": 69,
+  "category_id": 4,
+  "uid": 2,
+  "cca_name": "Debate Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175e5"
+  },
+  "cca_id": 70,
+  "category_id": 4,
+  "uid": 2,
+  "cca_name": "Film Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175e6"
+  },
+  "cca_id": 71,
+  "category_id": 1,
+  "uid": 3,
+  "cca_name": "Visual Arts Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175e7"
+  },
+  "cca_id": 72,
+  "category_id": 1,
+  "uid": 3,
+  "cca_name": "Dancesport"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175e8"
+  },
+  "cca_id": 73,
+  "category_id": 1,
+  "uid": 3,
+  "cca_name": "Chinese Orchestra"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175e9"
+  },
+  "cca_id": 74,
+  "category_id": 1,
+  "uid": 3,
+  "cca_name": "Guitar Orchestra"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ea"
+  },
+  "cca_id": 75,
+  "category_id": 1,
+  "uid": 3,
+  "cca_name": "Literature Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175eb"
+  },
+  "cca_id": 76,
+  "category_id": 1,
+  "uid": 3,
+  "cca_name": "Malay Cultural Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ec"
+  },
+  "cca_id": 77,
+  "category_id": 1,
+  "uid": 3,
+  "cca_name": "Symphony Orchestra"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ed"
+  },
+  "cca_id": 78,
+  "category_id": 1,
+  "uid": 3,
+  "cca_name": "Choir Ensemble"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ee"
+  },
+  "cca_id": 79,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Aikido"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ef"
+  },
+  "cca_id": 80,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Archery"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175f0"
+  },
+  "cca_id": 81,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Badminton"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175f1"
+  },
+  "cca_id": 82,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Basketball"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175f2"
+  },
+  "cca_id": 83,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Bowling"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175f3"
+  },
+  "cca_id": 84,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Climbing"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175f4"
+  },
+  "cca_id": 85,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Dragonboat"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175f5"
+  },
+  "cca_id": 86,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Fencing"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175f6"
+  },
+  "cca_id": 87,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Floorball"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175f7"
+  },
+  "cca_id": 88,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Golf"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175f8"
+  },
+  "cca_id": 89,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Handball"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175f9"
+  },
+  "cca_id": 90,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Kendo"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175fa"
+  },
+  "cca_id": 91,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Rugby"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175fb"
+  },
+  "cca_id": 92,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Sailing"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175fc"
+  },
+  "cca_id": 93,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Squash"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175fd"
+  },
+  "cca_id": 94,
+  "category_id": 2,
+  "uid": 3,
+  "cca_name": "Ultimate Frisbee"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175fe"
+  },
+  "cca_id": 95,
+  "category_id": 3,
+  "uid": 3,
+  "cca_name": "Buddhist Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e175ff"
+  },
+  "cca_id": 96,
+  "category_id": 3,
+  "uid": 3,
+  "cca_name": "Christian Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e17600"
+  },
+  "cca_id": 97,
+  "category_id": 3,
+  "uid": 3,
+  "cca_name": "Muslim Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e17601"
+  },
+  "cca_id": 98,
+  "category_id": 3,
+  "uid": 3,
+  "cca_name": "Sikh Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e17602"
+  },
+  "cca_id": 99,
+  "category_id": 4,
+  "uid": 3,
+  "cca_name": "Red Cross Youth"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e17603"
+  },
+  "cca_id": 100,
+  "category_id": 4,
+  "uid": 3,
+  "cca_name": "Rotaract Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e17604"
+  },
+  "cca_id": 101,
+  "category_id": 4,
+  "uid": 3,
+  "cca_name": "Debate Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e17605"
+  },
+  "cca_id": 102,
+  "category_id": 4,
+  "uid": 3,
+  "cca_name": "Animal Lovers' Society"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e17606"
+  },
+  "cca_id": 103,
+  "category_id": 4,
+  "uid": 3,
+  "cca_name": "Wine Appreciation Club"
+},{
+  "_id": {
+    "$oid": "619b90b933021fadc6e17607"
+  },
+  "cca_id": 104,
+  "category_id": 4,
+  "uid": 3,
+  "cca_name": "Women's Connection"
+}]
