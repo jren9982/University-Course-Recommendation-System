@@ -1,51 +1,31 @@
 # University Course Recommendation System
-Web Application and Database Team Project, completed for ICT2103. Implemented for both MySQL and MongoDB.
 
-### To login to Admin Page:
+### Overview
+University Course Recommendation System is a Web Application that matches polytechnic graduates GPA scores to eligible university courses in 10th and 90th percentiles, and allows for categorisation, filtering, and sorting of both university courses and co-curricular activities in the universities that offer these courses.
 
-- Username: user@email.com
+From the login landing page, the user may choose 'Login' and proceed to the Admin Page, or the user may choose 'Guest Login' and proceed to the User Page.
 
-- Password: u$er
+The Admin Page allows the user to perform CRUD operations on the datas in the database.
 
-RELATIONAL DATABASE(MariaDB)
-### When running on your own computer: 
+The User Page allows the user to match their GPA to university courses, as well as categorise, filter, and sort the output.
 
-Check under 'private' 'dbconn.php' and under root dir 'connection_settings.php' and change to your DB settings accordingly (e.g. password)
+This project is implemented in both SQL and NoSQL versions.
 
-### How to import database into your own MariaDB:
+### Scope of Personal Contribution to Team Project:
+- Relational Database Categorisation functionality.
+- Web Application Front-end Design (in collaboration with team).
 
-in MariaDB console, type this command:
+### Features of University Course Recommendation System Web Application
 
-`source <full path of data.sql>`
+#### Login Page
+<img width="793" alt="image" src="https://user-images.githubusercontent.com/74390368/147893469-64fb5afb-317e-4d41-a211-e56bb4155efa.png">
 
-e.g. `source C:\Users\Nativ\Documents\GitHub\ICT2103Project\data.sql`
+#### Admin Page (CRUD operations)
+https://user-images.githubusercontent.com/74390368/147893692-a29ee147-2060-4cfc-87ef-f8d71d058802.mp4
 
-and MariaDB will import database automatically.
+#### User Page Course List (Filter, Search, Categorise, Sort)
+https://user-images.githubusercontent.com/74390368/147894091-01fa5d15-c900-4f10-a97c-c13e41874b6a.mp4
 
+#### User Page CCA List (Filter, Search, Categorise, Sort)
+https://user-images.githubusercontent.com/74390368/147894245-37bc6c91-19f0-4d41-8c73-e33af6a336b0.mp4
 
-NON RELATIONAL DATABASE(MongoDB)
-
-### When running on your computer:
-
-Install 3 tools:
-MongoDB driver version 1.11.1,
-MongoDB PHP library 1.9,
-Composer to use autoload.php required for MongoDB PHP library 1.9
-
-edit your mongoDB connection to your local host under database.inc.php
-
-https://pecl.php.net/package/mongodb/1.11.1/windows (mongoDB driver download the one with your php version)
-https://www.php.net/manual/en/mongodb.tutorial.library.php (how to use php library 1.9 with composer tutorial)
-https://getcomposer.org/download/ (composer)
-
-add "extension=php_mongodb.dll" into your php.ini file 
-
-Using COMPASS GUI to create a database with 6 collections 
-Uni_cca
-Uni_cca_categories
-Uni_courses
-Uni_list
-Uni_user
-Uni_vacancies
-
-Import all the JSON files in 2103_Project_Collection folder into the allocated created collection through COMPASS GUI
